@@ -1,0 +1,10 @@
+app_identifier("org.reactjs.native.example.QuarantineXR") # The bundle identifier of your app
+apple_id("kingsleyakpan18@gmail.com") # Your Apple email address
+
+itc_team_id("119978684") # App Store Connect Team ID
+team_id("K6C26MQ335") # Developer Portal Team ID
+itc_team_id("119978684") # App Store Connect Team ID
+team_id("K6C26MQ335") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
